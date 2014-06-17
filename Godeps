@@ -10,9 +10,9 @@
 			"Rev": "f87ce853111478914f0bcffa34d43a93643e6eda"
 		},
 		{
-			"ImportPath": "github.com/fsouza/go-dockerclient",
+			"ImportPath": "github.com/jakolehm/go-dockerclient",
 			"Comment": "master",
-			"Rev": "a735a3dbbfdd1822886f6b4235318c8809b41538"
+			"Rev": "627d31fd674245937a1e0762f0eca2b14db3b9dd"
 		}
 	]
 }
